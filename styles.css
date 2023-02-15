@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+}
+
+.title {
+    list-style-type: none;
+}
+
+.top-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
